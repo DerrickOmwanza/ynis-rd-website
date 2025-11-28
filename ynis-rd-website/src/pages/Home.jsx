@@ -87,7 +87,7 @@ const Home = () => {
                             <p className="text-lg md:text-xl text-white/90 max-w-2xl mx-auto mb-8">
                                 Join us in creating positive change through youth leadership and community engagement
                             </p>
-                            <Link to="/get-involved" className="inline-block bg-cyan-400 hover:bg-cyan-300 text-gray-900 font-bold py-3 px-8 rounded transition-colors">
+                            <Link to="/contact" className="inline-block bg-cyan-400 hover:bg-cyan-300 text-gray-900 font-bold py-3 px-8 rounded transition-colors">
                                 Get Involved
                             </Link>
                         </div>
