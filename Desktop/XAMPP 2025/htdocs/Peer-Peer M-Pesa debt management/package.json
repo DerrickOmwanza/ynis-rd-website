@@ -1,7 +1,7 @@
 {
   "name": "mpesa-debt-allocation",
   "version": "0.1.0",
-  "description": "M-PESA Peer-to-Peer Debt Allocation & Trigger-Based Repayment System",
+  "description": "Complete peer-to-peer debt management system with M-PESA integration, automatic repayment processing, USSD interface, offline sync, and comprehensive testing framework",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
